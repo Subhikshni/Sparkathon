@@ -18,7 +18,7 @@ ShopSense revolutionizes the shopping experience by leveraging cutting-edge AI t
 
 Watch our detailed solution walkthrough on [YouTube](https://youtu.be/kz9PKcwfkv0) to understand ShopSense in action.
 
-[![ShopSense Demo](path/to/your/youtube_thumbnail.png)](https://youtu.be/kz9PKcwfkv0)
+[![ShopSense Demo](https://github.com/Subhikshni/Sparkathon/blob/main/images/1.png)](https://youtu.be/kz9PKcwfkv0)
 
 ## Tech Stack
 
