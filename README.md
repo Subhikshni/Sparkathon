@@ -1,6 +1,6 @@
 # ShopSense: AI-Powered Personalized Shopping
 
-![ShopSense](path/to/your/logo.png)
+![ShopSense](https://github.com/Subhikshni/Sparkathon/blob/main/images/Android%20Small%20-%206.jpg)
 
 ## Overview
 
